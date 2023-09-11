@@ -1,0 +1,8 @@
+{
+  "name": "Peter Park",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "cd0bbf8e"
+}
